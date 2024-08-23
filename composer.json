@@ -1,6 +1,6 @@
 {
   "name": "nvision/commerce365-hyva-beta",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Commerce 365 for Magento (Hyva Support) - Meta module",
   "homepage" : "https://n.vision",
   "license": [
@@ -10,6 +10,7 @@
       "php": ">=8.1.0",
       "magento/framework": ">=102.0.0",
       "commerce365/module-core": "^2.0",
+      "commerce365/module-customer": "^1.0",
       "commerce365/module-customer-price": "^2.0",
       "commerce365/module-invoices": "^1.1",
       "commerce365/module-orders": "^1.1",
@@ -17,7 +18,7 @@
       "commerce365/module-shipments": "^1.1",
       "commerce365/module-quotes": "^1.1",
       "commerce365/module-apiextensions": "^1.0",
-      "commerce365/module-customer-price-hyva-compatibility": "^2.0"
+      "commerce365/module-customer-price-hyva-compatibility": "^2.0",
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
