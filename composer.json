@@ -18,7 +18,7 @@
       "commerce365/module-quotes": "^1.1",
       "commerce365/module-apiextensions": ">=1.1.2",
       "commerce365/module-customer-price-hyva-compatibility": "2.1.0-beta",
-      "commerce365/module-customer": ">=1.0.9"
+      "commerce365/module-customer": "1.1.0-beta"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
